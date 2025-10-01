@@ -1,7 +1,7 @@
 const CONFIG = {
   appName: "VidhyaSetu",
   tagline: "Advanced School Management System - Download APK",
-  apkUrl: "https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk", // Sample safe APK for demo
+  apkUrl: "https://expo.dev/accounts/ken01033/projects/vidyasetu/builds/fd19fb55-da8d-4006-8665-59667bcb24e6", // Sample safe APK for demo
   version: "",
   lastUpdated: "",
   sha256: "",
